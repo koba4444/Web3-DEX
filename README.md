@@ -7,11 +7,14 @@ Pet-project: Digital Exchange.
 
 
 PREREQUIZITS:
-Pet-project for applyinginto web3 whitelist here:  https://web3-dapp-whitelist-u8q6.vercel.app/
+Pet-project for applying into web3 whitelist here:  https://web3-dapp-whitelist-u8q6.vercel.app/
 Pet-project for minting coins KOKT to addresses previously bought KokArtsNFT here: https://web3-nft-collection-rho.vercel.app/
 
+testnet Sepolia
 
-
-Deployed to https://web3-dao-koba4444.vercel.app/
+Deployed to https://web3-dex.vercel.app/
 
 DEX Contract Address: 0x6C93A387DeC26c61D9F44Dc4B154ea953de89a0B
+
+CRYPTO_DEVS_NFT_CONTRACT_ADDRESS: 0x45A8f978962d3FD5e03D28d74f1A3EEa0Cf49568
+KokArts Token Contract Address: 0x169Ef00627bAcba2872D16028c65B9559BE47170
